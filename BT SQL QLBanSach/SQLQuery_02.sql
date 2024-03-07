@@ -1,0 +1,4 @@
+USE BT1CSDL
+
+SELECT * FROM tSach
+WHERE TenSach LIKE N'Ngày%'
