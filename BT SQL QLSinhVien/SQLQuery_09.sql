@@ -1,0 +1,1 @@
+﻿SELECT COUNT(MaSV) AS 'Tổng số sinh viên' FROM DSSinhVien
